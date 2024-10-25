@@ -13,7 +13,7 @@ Atualmente, estou estudando uma ampla gama de linguagens e tecnologias para me a
 - **Java**: Linguagem que me ajudou a entender melhor a **orientação a objetos**.
 - **Python**: Ferramenta poderosa para automações e manipulação de dados.
 - **MySQL**: Noções de banco de dados relacionais para armazenar e acessar dados de forma eficiente.
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,react,mysql,java)](https://skillicons.dev)
 
 ### ✨ Objetivo
 
