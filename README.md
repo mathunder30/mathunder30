@@ -16,7 +16,7 @@ Atualmente, estou estudando uma ampla gama de linguagens e tecnologias para me a
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,react,mysql,java)](https://skillicons.dev)
 
 - ## Estatística do github 📈
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimathunder30anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mathunder=30anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✨ Objetivo
 
