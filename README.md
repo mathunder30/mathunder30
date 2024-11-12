@@ -16,8 +16,9 @@ Atualmente, estou estudando uma ampla gama de linguagens e tecnologias para me a
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,react,mysql,java)](https://skillicons.dev)
 
 - ## Estatística do github 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathunder30)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathunder30)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathunder30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathunder30&show_icons=true&theme=radical)
 ### ✨ Objetivo
 
 Meu maior objetivo aqui no GitHub é **compartilhar meus projetos pessoais** e, mais importante, mostrar **como cheguei ao resultado final**. Acredito que o processo é tão valioso quanto o produto final, e aprender com os erros e acertos ao longo do caminho é fundamental para evoluir como desenvolvedor.
