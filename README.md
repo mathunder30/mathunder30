@@ -1,36 +1,36 @@
-## 👋 Olá! Bem-vindo ao meu GitHub!
+###
 
-Sou **monitor** em uma escola técnica de desenvolvimento e estou sempre em busca de novos aprendizados e desafios no mundo da programação. 🚀 Tenho uma paixão por tecnologia e uma forte vontade de me tornar um **desenvolvedor profissional**. Ao longo da minha jornada, já adquiri experiência com **criação de sistemas**, **orientação a objetos** e **manipulação de eventos**.
+<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=B64A32&height=120&section=header">
 
-### 💻 O que eu estudo e trabalho:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=B64A32&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+My+name+is+Eduardo;I'm+19+years+old;I'm+a+Mobile+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoBorges0&show_icons=true&count_private=true&hide_border=true&title_color=B64A32&icon_color=B64A32&text_color=B64A32&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoBorges0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&show_icons=true&count_private=true&hide_border=true&title_color=B64A32&icon_color=B64A32&text_color=B64A32&bg_color=0d1117" height="170" alt="languages graph"/>
+</div>
 
-Atualmente, estou estudando uma ampla gama de linguagens e tecnologias para me aprofundar cada vez mais no desenvolvimento de software:
 
-- **JavaScript**: A base de muitas das minhas explorações no front-end e back-end.
-- **Node.js**: Meu foco no back-end, onde quero me aprofundar ainda mais.
-- **React**: Uma das minhas principais áreas de estudo para o front-end.
-- **PHP**: Usado em diversos projetos web.
-- **Java**: Linguagem que me ajudou a entender melhor a **orientação a objetos**.
-- **Python**: Ferramenta poderosa para automações e manipulação de dados.
-- **MySQL**: Noções de banco de dados relacionais para armazenar e acessar dados de forma eficiente.
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,react,mysql,java)](https://skillicons.dev)
+###
 
-- ## Estatística do github 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathunder30)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathunder30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### ✨ Objetivo
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" padding = "3" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" padding = "3" alt="python logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" padding = "3" alt="kotlin logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" padding = "3" alt="android logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" padding = "3" alt="java logo"  />
+</div>
 
-Meu maior objetivo aqui no GitHub é **compartilhar meus projetos pessoais** e, mais importante, mostrar **como cheguei ao resultado final**. Acredito que o processo é tão valioso quanto o produto final, e aprender com os erros e acertos ao longo do caminho é fundamental para evoluir como desenvolvedor.
+###
 
-### 👨‍👩‍👦 Fora do código:
-
-Além da programação, tenho alguns interesses que tornam minha vida completa:
-
-- **Família**: Passo tempo com minha família sempre que posso, pois eles são meu alicerce. 👨‍👩‍👦
-- **Igreja**: Tenho uma forte conexão espiritual e gosto de participar das atividades da minha igreja. 🙏
-- **Videogames**: No meu tempo livre, nada melhor do que jogar um pouco para relaxar e me divertir. 🎮
-- **Sonhar**: Sempre estou sonhando com o futuro, seja ele sobre novos projetos, novas aventuras ou conquistas. 🌟
-
-### 🌟 Vamos construir juntos!
-
-Se você curte tecnologia, aprender algo novo ou simplesmente trocar ideias sobre desenvolvimento, fique à vontade para entrar em contato. Adoro colaborar e aprender com a comunidade, e estou sempre aberto a sugestões, melhorias ou novos projetos!
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardoo-borges/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+<div align="center">
+  <br/>
+<img src="https://github.com/EduardoBorges0/EduardoBorges0/assets/113848266/684454e6-0792-46ae-b606-b7eb86959e15" />
+</div>
