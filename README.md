@@ -2,7 +2,7 @@
 
 <img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=5b9cf3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+My+name+is+Mateus;I'm+20+years+old;I'm+a+Mobile+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=5b9cf3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+My+name+is+Mateus;I'm+20+years+old;I'm+a+Back+End;I'm+from+Brasil;Welcome%3A)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mathunder30&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathunder30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=054aa7&bg_color=0d1117" height="170" alt="languages graph"/>
