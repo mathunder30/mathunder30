@@ -30,7 +30,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<div align="center">
-  <br/>
-<img src="https://github.com/mathunder30/mathunder30/assets/113848266/684454e6-0792-46ae-b606-b7eb86959e15" />
-</div>
+
