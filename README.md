@@ -41,9 +41,6 @@
   <a href="https://github.com/mathunder30/API_PRONTUARIO_MEDICO">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathunder30&repo=API_PRONTUARIO_MEDICO&title_color=ffffff&text_color=ffffff&icon_color=5b9cf3&bg_color=0d1117&hide_border=true" />
   </a>
-  <a href="https://github.com/mathunder30/trabalho_manipulacao_eventos_medicos">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathunder30&repo=trabalho_manipulacao_eventos_medicos&title_color=ffffff&text_color=ffffff&icon_color=5b9cf3&bg_color=0d1117&hide_border=true" />
-  </a>
 </div>
 
 ---
