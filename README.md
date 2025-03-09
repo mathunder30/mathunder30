@@ -33,8 +33,6 @@
 <div width="100%" align="center"><a href="https://github.com/mathunder30/projeto-corrida-mariokart" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathunder30&repo=projeto-corrida-mariokart&title_color=ffffff&text_color=ffffff&icon_color=5b9cf3&bg_color=0d1117&hide_border=true&locale=en" /></a>
   <a href="https://github.com/mathunder30/API_PRONTUARIO_MEDICO" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathunder30&repo=API_PRONTUARIO_MEDICO&title_color=ffffff&text_color=ffffff&icon_color=5b9cf3&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/mathunder30/API_PRONTUARIO_MEDICO" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathunder30&repo=API_PRONTUARIO_MEDICO&title_color=ffffff&text_color=ffffff&icon_color=5b9cf3&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/mathunder30/trabalho_manipulacao_eventos_medicos" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathunder30&repo=trabalho_manipulacao_eventos_medicos&title_color=ffffff&text_color=ffffff&icon_color=5b9cf3&bg_color=0d1117&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-lopes-316b58237/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
