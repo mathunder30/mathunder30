@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathunder30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=054aa7&bg_color=0d1117" height="170" alt="languages graph"/>
 </div>
 
-
-###
 <h2 align="center">Skills<h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" padding = "3" alt="javascript logo"  />
