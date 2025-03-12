@@ -8,14 +8,13 @@
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mathunder30&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathunder30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" height="180" />
 </div>
 
----
+
 
 <h2 align="center">Skills</h2>
 
@@ -30,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 </div>
 
----
 
 <h2 align="center">Projects</h2>
 
@@ -43,7 +41,6 @@
   </a>
 </div>
 
----
 
 <h2 align="center">Connect with me</h2>
 
@@ -53,12 +50,11 @@
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="80%" />
 </div>
 
----
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer">
