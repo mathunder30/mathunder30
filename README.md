@@ -1,37 +1,37 @@
-###
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=5b9cf3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+My+name+is+Mateus;I'm+21+years+old;I'm+a+Web+Developer;I'm+from+Brasil;Welcome%3A"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=5B9CF3&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Mateus+Lopes!;Web+%26+Mobile+Developer;Focused+on+JavaScript+%26+Node.js;From+Brazil+🇧🇷;Welcome+to+my+GitHub!+👋" />
   </a>
 </div>
 
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathunder30&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathunder30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathunder30&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathunder30&layout=compact&langs_count=6&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" />
 </div>
 
+---
 
-
-<h2 align="center">Skills</h2>
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="Nest.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
 </div>
 
+---
 
-<h2 align="center">Projects</h2>
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
   <a href="https://github.com/mathunder30/projeto-corrida-mariokart">
@@ -42,8 +42,9 @@
   </a>
 </div>
 
+---
 
-<h2 align="center">Connect with me</h2>
+## 📫 &nbsp;Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-lopes-316b58237/" target="_blank">
@@ -51,11 +52,10 @@
   </a>
 </div>
 
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="70%" />
 </div>
 
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer"/>
